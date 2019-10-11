@@ -608,3 +608,7 @@ input[type=checkbox]
 	color: #fff;
     text-decoration: none;
 }
+
+.contributor_links {
+	justify-content: center;
+}
